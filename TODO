@@ -1,0 +1,3 @@
+# Create Rock Paper Scissors game using lists and conditionals
+# Have program create a log file to track how many games have been played using files, and strings
+# Have program add to the log how many times a user has won, lost or tied also using files, strings, and functions
